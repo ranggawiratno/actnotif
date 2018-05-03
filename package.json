@@ -1,0 +1,35 @@
+{
+  "name": "actnotif",
+  "version": "0.0.1",
+  "description": "A demo for ACT Whatsapp Notification",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ranggawiratno/actnotif.git"
+  },
+  "author": "Rangga Wiratno",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ranggawiratno/actnotif/issues"
+  },
+  "homepage": "https://github.com/ranggawiratno/actnotif#readme",
+  "dependencies": {
+    "bcryptjs": "*",
+    "body-parser": "*",
+    "connect-flash": "*",
+    "cookie-parser": "^1.4.3",
+    "express": "*",
+    "express-handlebars": "*",
+    "express-messages": "*",
+    "express-session": "*",
+    "express-validator": "*",
+    "mongodb": "*",
+    "mongoose": "*",
+    "passport": "*",
+    "passport-http": "*",
+    "passport-local": "*"
+  }
+}
